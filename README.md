@@ -23,7 +23,10 @@
   <a/>
 </div>
     
-<img src = "banner.gif" width = "225px" align = "right">
+<img src = "banner.gif" width = "235px" height="295px" align = "right">
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colonig&theme=tokyonight) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=colonig&theme=dark&show_icons=true)   
+  
 
 
 
