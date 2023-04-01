@@ -23,9 +23,8 @@
   <a/>
 </div>
     
-<img src = "banner03.gif" align = "right">
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colonig&theme=tokyonight)  <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=colonig&theme=dark&show_icons=true)  --> 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colonig&theme=tokyonight) <img src = "banner03.gif" align = "right"> <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=colonig&theme=dark&show_icons=true)  --> 
     
     
 <!--
@@ -35,7 +34,7 @@
 **ColoniG/ColoniG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+                                                      <img src = "banner03.gif" align = "right">
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
