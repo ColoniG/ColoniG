@@ -6,8 +6,8 @@
   <img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="js" alt="JavaScipt" width="40" height="40"/>&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="HTML 5" width="40" height="40"/>&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3" alt="CSS 3" width="40" height="40"/>&nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="C" width="40" height="40"/>&nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="vuejs" alt="Vue JS" width="40" height="40"/>&nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="ts" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="Git" width="40" height="40"/>&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
