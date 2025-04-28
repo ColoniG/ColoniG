@@ -1,6 +1,6 @@
 # ✨Olá, é uma honra ter você aqui!✨
 
-### Sou desenvolvedor Full-stack 🚀
+### Sou desenvolvedor Full-Stack 🚀
 
 <div>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="js" alt="JavaScipt" width="40" height="40"/>&nbsp;
